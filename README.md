@@ -1,16 +1,19 @@
-## Hi there 👋
+My dad got me a Raspberry Pi in middle school, and the rest is history.
 
-<!--
-**tadhgj/tadhgj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Some things I've made:
 
-Here are some ideas to get you started:
+- **[RURadar](https://apps.apple.com/us/app/ruradar/id6472299023)**, a bus tracking app for Rutgers Students. iOS app built in Swift & SwiftUI. _1000+ **daily** active users._
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **[Queuebit](https://queuebit.vercel.app)**, an advanced song queue viewer for Spotify. Node.js backend hosted on Vercel. Avaliable to all Spotify users.
+
+- **[SXCTrack](https://sxctrack.com/)**, a database for cross country/track athletes. PHP backend hosted on CentOS VPS running cron jobs. Bootstrap 4 frontend.
+
+#### See more
+
+- on my [personal website](https://tadhg.ski/). I blog sometimes 📝!
+
+- on [Read.cv](https://read.cv/tadhg/) 📄. Also relatively active on [Posts.cv](https://posts.cv/tadhg/) 💬.
+
+- at [LinkedIn](https://linkedin.com/in/tadhgj) 🧳.
+
+- in your terminal 💻 with `ssh resume.tadhg.ski`
