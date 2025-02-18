@@ -16,9 +16,11 @@ My dad got me a Raspberry Pi in middle school, and the rest is history.
 
 - on my [personal website](https://tigertjj.com/). I [blog](https://tadhg.ski/posts) sometimes 📝!
 
-- on [Read.cv](https://read.cv/tadhg/) 📄. Also relatively active on [Posts.cv](https://posts.cv/tadhg/) 💬.
+- ~~on [Read.cv](https://read.cv/tadhg/) 📄. Also relatively active on [Posts.cv](https://posts.cv/tadhg/) 💬.~~
 
-- at [LinkedIn](https://linkedin.com/in/tadhgj) 🧳.
+  (These services are [winding down](https://read.cv/a-new-chapter) on Feb. 28th 2025 and will shut off on May 16th 2025)
+
+- on [LinkedIn](https://linkedin.com/in/tadhgj) 🧳.
 
 - in your terminal 💻 with `ssh resume.tadhg.ski`
 
